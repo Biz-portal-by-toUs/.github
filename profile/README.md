@@ -1,7 +1,8 @@
+<img width="915" height="357" alt="image" src="https://github.com/user-attachments/assets/5c72b8e2-5658-4ab5-bb29-03238d900bee" />
 # <p align="center"> 🧩 비즈포털 BizPortal <p>
 ### <p align="center">
-결재·일정·조직을 한 곳에 모아 “요약 → 결정 → 실행” 흐름을 만드는 전자결재 중심 그룹웨어 <br>
-&nbsp;&nbsp;&nbsp;&nbsp;<img width="915" height="357" alt="image" src="https://github.com/user-attachments/assets/5c72b8e2-5658-4ab5-bb29-03238d900bee" /><br>
+## 결재·일정·조직을 한 곳에 모아 “요약 → 결정 → 실행” 흐름을 만드는 전자결재 중심 그룹웨어 <br>
+&nbsp;&nbsp;&nbsp;&nbsp;<br>
 &nbsp;&nbsp;&nbsp;전자결재 · 일정 · 회의 · 채팅 · 알림 · 통합검색 · AI 챗봇을 한 곳에서 🏢✨ <p>
 ##### <p align="center"> URL : {서비스 URL} <p>
 <br>
