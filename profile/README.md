@@ -2,7 +2,7 @@
 
 # <p align="center"> 🧩 비즈포털 BizPortal <p>
 ### <p align="center">
-## 결재·일정·조직을 한 곳에 모아 “요약 → 결정 → 실행” 흐름을 만드는 전자결재 중심 그룹웨어 <br>
+결재·일정·조직을 한 곳에 모아 “요약 → 결정 → 실행” 흐름을 만드는 전자결재 중심 그룹웨어 <br>
 &nbsp;&nbsp;&nbsp;&nbsp;<br>
 &nbsp;&nbsp;&nbsp;전자결재 · 일정 · 회의 · 채팅 · 알림 · 통합검색 · AI 챗봇을 한 곳에서 🏢✨ <p>
 ##### <p align="center"> URL : {서비스 URL} <p>
