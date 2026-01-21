@@ -1,2 +1,2 @@
-Bizportal (toUS)
-<img width="586" height="294" alt="image" src="https://github.com/user-attachments/assets/2d0db279-0700-472a-93ff-b66cbcd18901" />
+<img width="964" height="272" alt="image" src="https://github.com/user-attachments/assets/46b9f8b4-3b3c-4d95-9414-b4344e76d163" />
+
