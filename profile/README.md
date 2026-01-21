@@ -63,18 +63,18 @@
 
 <br>
 
-## 🛠 Tech Stack
+## 🛠 Tech stack 
 <br>
-<div align="center">
+<div align =center>
 
 분야| 사용 기술|
 :--------:|:------------------------------:|
-**Frontend** | Thymeleaf
-**Backend** | Spring Boot (Tomcat) · FastAPI (Uvicorn)
-**DB/Cache** | MySQL (RDS) · Redis (ElastiCache) · MongoDB Atlas
-**Search/Vector** | Elasticsearch (EKS + EBS PVC) · Weaviate (EKS + EBS PVC)
-**DevOps** | AWS EC2 · AWS EKS · ALB · Ingress · Jenkins
-**AI** | RAG · Text-to-SQL · OpenAI API
+**Frontend** | <img src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white"> <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"> <img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB"> <img src="https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white"/> <img src="https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white"/> <img src="https://img.shields.io/badge/yarn-%232C8EBB.svg?style=for-the-badge&logo=yarn&logoColor=white"> <img src="https://img.shields.io/badge/zustand-8B4513.svg?style=for-the-badge&logo=react&logoColor=FFFFFF"> <img src="https://img.shields.io/badge/Axios-5A29E4?style=for-the-badge&logo=axios&logoColor=white">
+**Backend** | <img src="https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi"> <img src="https://img.shields.io/badge/RabbitMQ-FF6600?style=for-the-badge&logo=RabbitMQ&logoColor=white"> <img src="https://img.shields.io/badge/Celery-37814A?style=for-the-badge&logo=Celery&logoColor=white"> <img src="https://img.shields.io/badge/mysql-4479A1?style=for-the-badge&logo=mysql&logoColor=white"> <img src="https://img.shields.io/badge/Amazon RDS-527FFF?style=for-the-badge&logo=Amazon RDS&logoColor=white"> <img src="https://shields.io/badge/FFmpeg-%23171717.svg?logo=ffmpeg&style=for-the-badge&labelColor=171717&logoColor=5cb85c"> <img src="https://img.shields.io/badge/Uvicorn-22C3E6?style=for-the-badge&logo=uvicorn&logoColor=white"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/Google_Mediapipe_Logo.svg/120px-Google_Mediapipe_Logo.svg.png" width="100px"/>
+**DevOps** | <img src="https://img.shields.io/badge/NGINX-009639?style=for-the-badge&logo=nginx&logoColor=black"> <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"> <img src="https://img.shields.io/badge/github%20actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white"> <img src="https://img.shields.io/badge/Amazon%20CloudFront-232F3E?style=for-the-badge&logo=Amazon-CloudFront&logoColor=white"> <img src="https://img.shields.io/badge/Amazon_EC2-FF9900?style=for-the-badge&logo=Amazon-EC2&logoColor=black"> <img src="https://img.shields.io/badge/certbot-0072C6?style=for-the-badge&logo=let's-encrypt&logoColor=white"> <img src="https://img.shields.io/badge/Amazon S3-569A31?style=for-the-badge&logo=Amazon S3&logoColor=white">
+**Monitoring** |   <img src="https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=black"> <img src="https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=Prometheus&logoColor=black"> <img src="https://img.shields.io/badge/alertmanager-E74536?style=for-the-badge&logo=alertmanager&logoColor=black"> <img src = "https://img.shields.io/badge/cadvisor-1478FF?style=for-the-badge&logoColor=black"> <img src="https://img.shields.io/badge/flower-FF69B4?style=for-the-badge&logo=flower&logoColor=white"> 
+**etc** | ![Slack](https://img.shields.io/static/v1?style=for-the-badge&message=Slack&color=4A154B&logo=Slack&logoColor=FFFFFF&label=) ![Notion](https://img.shields.io/static/v1?style=for-the-badge&message=Notion&color=000000&logo=Notion&logoColor=FFFFFF&label=) ![Figma](https://img.shields.io/static/v1?style=for-the-badge&message=Figma&color=F24E1E&logo=Figma&logoColor=FFFFFF&label=) <img src="https://img.shields.io/badge/swagger-85EA2D?style=for-the-badge&logo=swagger&logoColor=black"> <img src="https://img.shields.io/badge/GitKraken-179287?style=for-the-badge&logo=GitKraken&logoColor=white"> <img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white">
+</div>
 
 </div>
 
@@ -112,12 +112,14 @@
 <br>
 
 ## 💎 ERD
-<img width="1290" height="500" alt="ERD" src="{ERD 이미지 URL}">
+<img width="692" height="728" alt="image" src="https://github.com/user-attachments/assets/1164d58b-9876-4c1d-bd60-fe5b78379ed4" />
+URL : (https://www.notion.so/2c9f831b95c8806c89f5ccbc102432ea?source=copy_link)
 
 <br>
 
 ## 📙 API
-<img alt="API" src="{Swagger/문서 이미지 URL 또는 링크}">
+<img width="1459" height="615" alt="image" src="https://github.com/user-attachments/assets/e0b2413c-5469-4384-871e-b2adc875326b" />
+
 
 <br>
 
