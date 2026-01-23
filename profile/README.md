@@ -1,4 +1,4 @@
-<img width="915" height="357" alt="image" src="https://github.com/user-attachments/assets/5c72b8e2-5658-4ab5-bb29-03238d900bee" />
+<img width="340" height="486" alt="image" src="https://github.com/user-attachments/assets/ed9c77e1-f3d1-4909-b743-3416a6b062ca" /><img width="915" height="357" alt="image" src="https://github.com/user-attachments/assets/5c72b8e2-5658-4ab5-bb29-03238d900bee" />
 
 # <p align="center"> 🧩 비즈포털 BizPortal <p>
 ### <p align="center">
@@ -33,16 +33,17 @@
 ## 🎥 Demo
 |**메인 / 통합검색**|**전자결재**|
 |:-------------------:|:---------:|
-|<img width="390" height="220" alt="Main Search" src="{스크린샷 URL}">|<img width="390" height="220" alt="Approval" src="{스크린샷 URL}">|
+|<img width="390" height="220" alt="Main Search" src="<img width="1173" height="700" alt="image" src="https://github.com/user-attachments/assets/0bbae82d-2cca-4247-8342-29d8def712e7" />
+">|<img width="390" height="220" alt="Approval" src="<img width="1011" height="633" alt="image" src="https://github.com/user-attachments/assets/7e21d87f-9346-4409-9c48-2edaf2cab927" />
+">|
 |**AI 챗봇 (RAG + TTS)**|**회의 (STT/요약)**|
-|<img width="390" height="220" alt="Chatbot" src="{스크린샷 URL}">|<img width="390" height="220" alt="Meeting" src="{스크린샷 URL}">|
+|<img width="390" height="220" alt="Chatbot" src="<img width="832" height="1534" alt="image" src="https://github.com/user-attachments/assets/05f5da3d-3ff5-415a-83a8-fd0bc304fb82" />
+">|<img width="390" height="220" alt="Meeting" src="<img width="1015" height="632" alt="image" src="https://github.com/user-attachments/assets/83c851d0-ced1-4c88-8849-f6c861849763" />
+">|
 |**채팅 (WebSocket)**|**알림함 (SSE)**|
-|<img width="390" height="220" alt="Chat" src="{스크린샷 URL}">|<img width="390" height="220" alt="Notification" src="{스크린샷 URL}">|
-
-> ✅ Demo 시나리오 예시  
-> 1) 로그인 → 2) 메인 통합검색으로 문서/일정/회의 검색  
-> 3) 전자결재 상신/결재 → 4) 채팅으로 협업 → 5) SSE 알림 수신  
-> 6) 사내 규정은 챗봇으로 질의 → 7) 회의 녹음/STT/요약 확인
+|<img width="390" height="220" alt="Chat" src="<img width="340" height="486" alt="image" src="https://github.com/user-attachments/assets/4038e3a6-ba37-4fdb-b992-dbbcad73401f" />
+">|<img width="390" height="220" alt="Notification" src="<img width="634" height="898" alt="image" src="https://github.com/user-attachments/assets/e92c48c5-c4c1-490d-a1b3-61a420ddc87b" />
+>|
 
 <br>
 
